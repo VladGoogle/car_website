@@ -1,0 +1,51 @@
+@import 'nullstyle.scss';
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400&display=swap');
+
+.benefits {
+    margin-bottom: 100px;
+}
+
+.benefits__inner {
+    display: flex;
+}
+
+.benefits__content {
+    width: 100%;
+}
+
+.benefits__title {
+    margin-left: 280px;
+    margin-bottom: 50px;
+}
+
+.benefits__list {
+    max-width: 785px;
+    margin-left: 95px;
+    padding: 23px 0 25px 185px;
+    background-color: #21062A;
+}
+
+.benefits__item {
+    font-family: Oswald;
+    margin-bottom: 20px;
+    width: 320px;
+}
+
+.benefits__item-num {
+    font-size: 36px;
+    font-weight: 400;
+}
+
+.benefits__item-title {
+    line-height: normal;
+    font-size: 24px;
+    font-weight: 300;
+}
+
+
+.benefits__item-text {
+    line-height: normal;
+    color: #C4C4C4;
+    font-size: 18px;
+    font-weight: 300;
+}

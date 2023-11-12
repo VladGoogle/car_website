@@ -1,0 +1,21 @@
+@import 'nullstyle.scss';
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400&display=swap');
+
+.footer__social {
+    margin: 0;
+}
+
+.footer {
+    background-color: #21062A;
+}
+
+.footer__inner {
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.privacy-policy {
+    font-size: 18px;
+}
